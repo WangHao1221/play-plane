@@ -1,0 +1,24 @@
+{
+  "name": "play-plane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@vue/runtime-core": "^3.0.11",
+    "file-loader": "^6.2.0",
+    "pixi.js": "^6.0.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack serve --mode development --env development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
