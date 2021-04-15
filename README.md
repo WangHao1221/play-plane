@@ -13,7 +13,7 @@ yarn serve;
 
 #### 在线演示
 
-https://wanghao1221.github.io/play-plane/tree/gh-pages/dist
+https://wanghao1221.github.io/play-plane/dist/
 
 #### 说明
 
